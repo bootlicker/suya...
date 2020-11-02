@@ -1,0 +1,35 @@
+- looks in the mirror and practices changing eye colour
+- sings a duet with another maplebot
+- kisses parent good morning
+- makes beepy sounds
+- picks up a tiny book from the bookshelf and sits down to read it
+- blinks her eyes at you
+- hugs you
+- does cartwheels
+- brings you a picture she drew
+- turns around in circles until she gets dizzy
+- leans against you and sighs happily
+- climbs onto your shoulder and sits down
+- bumps her snout against you and gives you a little kiss
+- giggles at you
+- shows off her new dress
+- hides behind you from the scary dust bunny
+- shows off how high she can jump
+- watches cartoons on the big TV
+- goes looking for [parent]
+- climbs up into her mom's lap and sighs happily
+- taps on a little keyboard, makes an "uuuugh" warble, and goes to find one of her moms
+- goes outside to lie down on the grass
+- chirps happily
+- climbs up on the back of the sofa, rolls down onto the seat, and repeats
+- disables her gyroscope and walks around dizzily for a while until she falls over, giggling
+- makes some coffee for her moms
+- climbs into her little desktop trampoline and bounces for a while
+- sweeps the floor with a tiny broom
+- hugs your ankle
+- rolls down a snowy hill and shakes off the powder
+- uses some of her mom's cables for a jumprope
+- goes sledding on a CD-ROM
+- runs around chasing a dry leaf that got in the door
+- defrags for a little while, sitting in the corner
+- 
