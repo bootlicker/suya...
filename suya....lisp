@@ -422,9 +422,8 @@
      (i see!! ^w^)
      (i don\'t understand you fuwwy !!)
      (you don't say !!)
-     (UwU)  ;;; doesn't push conversation onwards
-     (can you ewaborate on that?)
-     (dat is quite intewesting!)
+     (can you ewabowate on that ?)
+     (dat is quite intewesting ! couwld you tell me mowe ??)
      (does dat suggest anything to you ??))
 
 #|
@@ -441,6 +440,7 @@
   (nth (random (length list)) list))
 
 (defparameter *is-repeat* nil)
+
 
 (defun eliza ()
   (loop
@@ -483,4 +483,19 @@
 > allow user to input new keys and responses
 
 |#
+
+(loop for x from 0 to (length history)
+   do (format t " ~s" (car (nth x history))))
+
+#|
+okay, so this code above will output the keys to the list
+what needs to happen is:
+- check output response against history
+- find the occurrences of the response
+- if response has been uttered, choose again
+- if every response has been uttered, choose current response
+|#
+
+
+
 
